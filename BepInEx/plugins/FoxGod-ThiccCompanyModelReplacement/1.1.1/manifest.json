@@ -1,0 +1,11 @@
+{
+    "name": "ThiccCompanyModelReplacement",
+    "version_number": "1.1.1",
+    "website_url": "https://github.com/BunyaPineTree/LethalCompany_ModelReplacementAPI",
+    "description": "Replaces default suit or specified suits in config with Thicc Intern",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+	"BunyaPineTree-ModelReplacementAPI-2.2.1"
+		
+    ]
+}
